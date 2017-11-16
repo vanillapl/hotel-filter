@@ -1,0 +1,16 @@
+ .InfoPanel {
+     text-align: center;
+     padding-top: 10%;
+     padding-bottom: 5%;
+ }
+
+ .InfoPanel h1 {
+     color: orange;
+ }
+
+ .InfoPanel img {
+     width: 60%;
+     height: auto;
+     max-height: 400px;
+     overflow: hidden;
+ }

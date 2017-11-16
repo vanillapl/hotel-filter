@@ -1,0 +1,472 @@
+[
+  {
+    "name": "Anaheim Marriott Suites",
+    "address": "12015 Harbor Blvd",
+    "city": "Garden Grove",
+    "latitude": 33.78814,
+    "longitude": -117.91659,
+    "postal code": 92840,
+    "reviews date": "2015-06-22T00:00:00Z",
+    "average rating": 4.21
+  },
+  {
+    "name": "Best Western Luxury Inn",
+    "address": "811 W Clover Rd",
+    "city": "Tracy",
+    "latitude": 37.7615,
+    "longitude": -121.43517,
+    "postal code": 95376,
+    "reviews date": "2010-11-14T00:00:00Z",
+    "average rating": 3.67
+  },
+  {
+    "name": "Best Western of Long Beach",
+    "address": "1725 Long Beach Blvd",
+    "city": "Long Beach",
+    "latitude": 33.78864,
+    "longitude": -118.18946,
+    "postal code": 90813,
+    "reviews date": "2016-05-30T00:00:00Z",
+    "average rating": 3.64
+  },
+  {
+    "name": "Best Western Plus Humboldt House Inn",
+    "address": "701 Redwood Dr",
+    "city": "Garberville",
+    "latitude": 40.10194,
+    "longitude": -123.79445,
+    "postal code": 95542,
+    "reviews date": "2016-07-17T00:00:00Z",
+    "average rating": 3.71
+  },
+  {
+    "name": "Best Western Plus San Marcos Inn",
+    "address": "250 Pacific St",
+    "city": "Morro Bay",
+    "latitude": 35.36461,
+    "longitude": -120.85116,
+    "postal code": 93442,
+    "reviews date": "2014-12-26T00:00:00Z",
+    "average rating": 3.72
+  },
+  {
+    "name": "Best Western Silicon Valley Inn",
+    "address": "600 N Mathilda Ave",
+    "city": "Sunnyvale",
+    "latitude": 37.39228,
+    "longitude": -122.02967,
+    "postal code": 94085,
+    "reviews date": "2016-03-23T00:00:00Z",
+    "average rating": 4.02
+  },
+  {
+    "name": "Casa Del Mar Inn Bandb",
+    "address": "18 Bath St",
+    "city": "Santa Barbara",
+    "latitude": 34.40958,
+    "longitude": -119.69339,
+    "postal code": 93101,
+    "reviews date": "2015-02-10T00:00:00Z",
+    "average rating": 3.93
+  },
+  {
+    "name": "Chelsea Inn",
+    "address": "2095 Lombard St",
+    "city": "San Francisco",
+    "latitude": 37.7998,
+    "longitude": -122.43603,
+    "postal code": 94123,
+    "reviews date": "2015-04-22T00:00:00Z",
+    "average rating": 3.98
+  },
+  {
+    "name": "Cherokee Lodge Bed and Breakfast",
+    "address": "964 D Ave",
+    "city": "Coronado",
+    "latitude": 32.6867,
+    "longitude": -117.18091,
+    "postal code": 92118,
+    "reviews date": "2016-04-15T00:00:00Z",
+    "average rating": 4.37
+  },
+  {
+    "name": "Cherry Orchard Inn",
+    "address": "1071 E El Camino Real",
+    "city": "Sunnyvale",
+    "latitude": 37.35231,
+    "longitude": -122.00324,
+    "postal code": 94087,
+    "reviews date": "2015-08-10T00:00:00Z",
+    "average rating": 2.92
+  },
+  {
+    "name": "Comfort Inn Livermore",
+    "address": "2625 Constitution Dr",
+    "city": "Livermore",
+    "latitude": 37.70143,
+    "longitude": -121.81418,
+    "postal code": 94551,
+    "reviews date": "2014-09-08T00:00:00Z",
+    "average rating": 3.75
+  },
+  {
+    "name": "Days Inn Barstow",
+    "address": "1590 Cool Water Ln",
+    "city": "Barstow",
+    "latitude": 34.89095,
+    "longitude": -117.00283,
+    "postal code": 92311,
+    "reviews date": "2016-02-21T00:00:00Z",
+    "average rating": 3.2
+  },
+  {
+    "name": "Gardena Terrace Inn",
+    "address": "15902 S Western Ave",
+    "city": "Gardena",
+    "latitude": 33.88622,
+    "longitude": -118.30914,
+    "postal code": 90247,
+    "reviews date": "2014-11-17T00:00:00Z",
+    "average rating": 3.44
+  },
+  {
+    "name": "Good Nite Inn Rohnert Park",
+    "address": "5040 Redwood Dr",
+    "city": "Rohnert Park",
+    "latitude": 38.3636,
+    "longitude": -122.71498,
+    "postal code": 94928,
+    "reviews date": "2016-06-07T00:00:00Z",
+    "average rating": 3.31
+  },
+  {
+    "name": "Hawthorn Suites By Wyndham Livermore Wine Country",
+    "address": "1700 N Livermore Ave",
+    "city": "Livermore",
+    "latitude": 37.69835,
+    "longitude": -121.77371,
+    "postal code": 94551,
+    "reviews date": "2015-04-17T00:00:00Z",
+    "average rating": 3.91
+  },
+  {
+    "name": "High Desert Motel",
+    "address": "61310 29 Palms Hwy",
+    "city": "Joshua Tree",
+    "latitude": 34.13495,
+    "longitude": -116.32575,
+    "postal code": 92252,
+    "reviews date": "2016-04-16T00:00:00Z",
+    "average rating": 3.75
+  },
+  {
+    "name": "Hilton San Diego Airport",
+    "address": "1960 Harbor Island Dr",
+    "city": "San Diego",
+    "latitude": 32.72478,
+    "longitude": -117.20989,
+    "postal code": 92101,
+    "reviews date": "2016-08-05T00:00:00Z",
+    "average rating": 4
+  },
+  {
+    "name": "Holiday Inn Express & Suites Willows",
+    "address": "545 Humboldt Ave",
+    "city": "Willows",
+    "latitude": 39.52668,
+    "longitude": -122.21225,
+    "postal code": 95988,
+    "reviews date": "2013-11-01T03:30:18Z",
+    "average rating": 5
+  },
+  {
+    "name": "Holiday Inn Express Colton-riverside North",
+    "address": "2830 S Iowa Ave",
+    "city": "Colton",
+    "latitude": 34.02034,
+    "longitude": -117.33823,
+    "postal code": 92324,
+    "reviews date": "2015-10-30T00:00:00Z",
+    "average rating": 3.2
+  },
+  {
+    "name": "Holiday Inn Express Hotel and Suites Hesperia",
+    "address": "9750 Key Point Ave",
+    "city": "Hesperia",
+    "latitude": 34.42794,
+    "longitude": -117.38383,
+    "postal code": 92345,
+    "reviews date": "2016-03-02T00:00:00Z",
+    "average rating": 3.8
+  },
+  {
+    "name": "Holiday Inn Express San Clemente",
+    "address": "35 Via Pico Plz",
+    "city": "San Clemente",
+    "latitude": 33.43754,
+    "longitude": -117.62173,
+    "postal code": 92672,
+    "reviews date": "2016-06-06T00:00:00Z",
+    "average rating": 4.21
+  },
+  {
+    "name": "Holiday Inn Victorville",
+    "address": "15494 Palmdale Rd",
+    "city": "Victorville",
+    "latitude": 34.50722,
+    "longitude": -117.32561,
+    "postal code": 92392,
+    "reviews date": "2016-04-27T00:00:00Z",
+    "average rating": 4.04
+  },
+  {
+    "name": "Hotel Aura Sfo",
+    "address": "190 El Camino Real",
+    "city": "San Bruno",
+    "latitude": 37.61758,
+    "longitude": -122.40852,
+    "postal code": 94066,
+    "reviews date": "2016-06-23T00:00:00Z",
+    "average rating": 3.95
+  },
+  {
+    "name": "Hotel Borgo Verde",
+    "address": "S Via Nullo 5/r",
+    "city": "San Jose",
+    "latitude": 37.52297,
+    "longitude": 15.06044,
+    "postal code": 95125,
+    "reviews date": "2014-09-20T00:00:00Z",
+    "average rating": 4.13
+  },
+  {
+    "name": "Hotel Valencia Santana Row",
+    "address": "355 Santana Row",
+    "city": "San Jose",
+    "latitude": 37.32098,
+    "longitude": -121.9479,
+    "postal code": 95128,
+    "reviews date": "2015-09-14T00:00:00Z",
+    "average rating": 4.28
+  },
+  {
+    "name": "La Brea Hotel",
+    "address": "524 N La Brea Ave",
+    "city": "Inglewood",
+    "latitude": 33.96999,
+    "longitude": -118.35586,
+    "postal code": 90302,
+    "reviews date": "2012-03-13T00:00:00Z",
+    "average rating": 4
+  },
+  {
+    "name": "Little Paradise Hotel",
+    "address": "435 E Avenida Olancha",
+    "city": "Palm Springs",
+    "latitude": 33.80282,
+    "longitude": -116.54269,
+    "postal code": 92264,
+    "reviews date": "2016-02-19T00:00:00Z",
+    "average rating": 4.56
+  },
+  {
+    "name": "Mandarin Oriental Hotel Group",
+    "address": "222 Sansome St",
+    "city": "San Francisco",
+    "latitude": 37.79234,
+    "longitude": -122.40091,
+    "postal code": 94104,
+    "reviews date": "2006-09-02T00:00:00Z",
+    "average rating": 3
+  },
+  {
+    "name": "Monarch Inn",
+    "address": "5059 Highway 140x",
+    "city": "Mariposa",
+    "latitude": 37.48657,
+    "longitude": -119.96711,
+    "postal code": 95338,
+    "reviews date": "2016-06-25T00:00:00Z",
+    "average rating": 2.96
+  },
+  {
+    "name": "Monarch of Rancho Mirag",
+    "address": "34560 Bob Hope Dr",
+    "city": "Rancho Mirage",
+    "latitude": 33.79855,
+    "longitude": -116.40588,
+    "postal code": 92270,
+    "reviews date": "2013-12-31T00:00:00Z",
+    "average rating": 4.29
+  },
+  {
+    "name": "Monterey Beach Dunes Inn",
+    "address": "3280 Dunes Dr",
+    "city": "Marina",
+    "latitude": 36.69925,
+    "longitude": -121.80555,
+    "postal code": 93933,
+    "reviews date": "2016-07-05T00:00:00Z",
+    "average rating": 2.8
+  },
+  {
+    "name": "Penzion Accom",
+    "address": "Hurbanova 44",
+    "city": "Pasadena",
+    "latitude": 48.90024,
+    "longitude": 18.05186,
+    "postal code": 91101,
+    "reviews date": "2014-12-23T00:00:00Z",
+    "average rating": 3.75
+  },
+  {
+    "name": "Porto Vista Hotel",
+    "address": "1835 Columbia St",
+    "city": "San Diego",
+    "latitude": 32.72449,
+    "longitude": -117.16765,
+    "postal code": 92101,
+    "reviews date": "2014-01-25T00:00:00Z",
+    "average rating": 3.68
+  },
+  {
+    "name": "Quality Inn and Suites Irvine Spectrum",
+    "address": "23702 Rockfield Blvd",
+    "city": "Lake Forest",
+    "latitude": 33.62822,
+    "longitude": -117.71598,
+    "postal code": 92630,
+    "reviews date": "2016-01-04T00:00:00Z",
+    "average rating": 3.19
+  },
+  {
+    "name": "Quality Inn Long Beach Airport",
+    "address": "3201 E Pacific Coast Hwy",
+    "city": "Signal Hill",
+    "latitude": 33.79023,
+    "longitude": -118.15455,
+    "postal code": 90755,
+    "reviews date": "2016-06-20T00:00:00Z",
+    "average rating": 2.82
+  },
+  {
+    "name": "Ramada",
+    "address": "323 Reservation Rd",
+    "city": "Marina",
+    "latitude": 36.68367,
+    "longitude": -121.79155,
+    "postal code": 93933,
+    "reviews date": "2016-05-20T00:00:00Z",
+    "average rating": 3.78
+  },
+  {
+    "name": "Red Lion Anaheim Maingate Hotel",
+    "address": "1850 S Harbor Blvd",
+    "city": "Anaheim",
+    "latitude": 33.80178,
+    "longitude": -117.91515,
+    "postal code": 92802,
+    "reviews date": "2003-04-28T00:00:00Z",
+    "average rating": 3.33
+  },
+  {
+    "name": "Residence Inn By Marriott Irvine John Wayne Airport",
+    "address": "2855 Main St",
+    "city": "Irvine",
+    "latitude": 33.67971,
+    "longitude": -117.83728,
+    "postal code": 92614,
+    "reviews date": "2015-08-15T00:00:00Z",
+    "average rating": 4.33
+  },
+  {
+    "name": "Sheraton Mission Valley San Diego Hotel",
+    "address": "1433 Camino Del Rio South",
+    "city": "San Diego",
+    "latitude": 32.76581,
+    "longitude": -117.15044,
+    "postal code": 92108,
+    "reviews date": "2016-10-05T20:22:37Z",
+    "average rating": 4.2
+  },
+  {
+    "name": "Simpson House Inn",
+    "address": "121 E Arrellaga St",
+    "city": "Santa Barbara",
+    "latitude": 34.42889,
+    "longitude": -119.7077,
+    "postal code": 93101,
+    "reviews date": "2015-12-19T00:00:00Z",
+    "average rating": 4.72
+  },
+  {
+    "name": "Sportsmen's Lodge",
+    "address": "12825 Ventura Blvd",
+    "city": "Studio City",
+    "latitude": 34.14479,
+    "longitude": -118.41155,
+    "postal code": 91604,
+    "reviews date": "2016-05-27T00:00:00Z",
+    "average rating": 3.19
+  },
+  {
+    "name": "Super 8 - Upland",
+    "address": "1282 W 7th St",
+    "city": "Upland",
+    "latitude": 34.08881,
+    "longitude": -117.67238,
+    "postal code": 91786,
+    "reviews date": "2016-04-24T00:00:00Z",
+    "average rating": 2.19
+  },
+  {
+    "name": "The Citizen Hotel Sacramento",
+    "address": "926 J St",
+    "city": "Sacramento",
+    "latitude": 38.58028,
+    "longitude": -121.49381,
+    "postal code": 95814,
+    "reviews date": "2011-05-20T00:00:00Z",
+    "average rating": 4.95
+  },
+  {
+    "name": "The Kinney - Venice Beach",
+    "address": "737 W Washington Blvd",
+    "city": "Marina Del Rey",
+    "latitude": 33.9873,
+    "longitude": -118.45369,
+    "postal code": 90292,
+    "reviews date": "2016-08-07T00:00:00Z",
+    "average rating": 4.11
+  },
+  {
+    "name": "Travelodge Anaheim Convention Center",
+    "address": "2060 S Harbor Blvd",
+    "city": "Anaheim",
+    "latitude": 33.79674,
+    "longitude": -117.91509,
+    "postal code": 92802,
+    "reviews date": "2016-07-12T00:00:00Z",
+    "average rating": 2.91
+  },
+  {
+    "name": "Villager Inn Motel",
+    "address": "1765 Young St",
+    "city": "Selma",
+    "latitude": 36.563,
+    "longitude": -119.61321,
+    "postal code": 93662,
+    "reviews date": "2016-03-24T00:00:00Z",
+    "average rating": 0.5
+  },
+  {
+    "name": "Wine Valley Lodge",
+    "address": "200 S Coombs St",
+    "city": "Napa",
+    "latitude": 38.28333,
+    "longitude": -122.28853,
+    "postal code": 94559,
+    "reviews date": "2016-06-07T00:00:00Z",
+    "average rating": 3.94
+  }
+]

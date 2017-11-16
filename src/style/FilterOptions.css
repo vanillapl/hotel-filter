@@ -1,0 +1,28 @@
+.FilterOptions {
+    padding-top: 15px;
+    padding-left: 5%;
+    grid-row: 2;
+    grid-column: 1 / 5;
+    background-color: white;
+}
+
+.FilterOptions ul {
+    list-style: none;
+}
+
+.FilterOptions ul li {
+    float: left;
+}
+
+.Reset {
+    margin: auto;
+    font-size: 18px;
+}
+
+.Sort {
+    margin: auto;
+    margin-left: 80%;
+    font-size: 18px;
+    width: 300px;
+}
+

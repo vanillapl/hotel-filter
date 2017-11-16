@@ -1,0 +1,8 @@
+.HotelPanel {
+    background-color: white;
+    overflow: scroll;
+}
+
+.HotelPanel ul {
+    list-style: none;
+}

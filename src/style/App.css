@@ -1,0 +1,62 @@
+.App {
+  display: grid;
+  grid-template-columns: 14.5vw 28vw 43vw 14.5vw;
+  grid-template-rows: 12vw 120px 40vw 10px 50px;
+}
+
+.App-header {
+  text-align: center;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url('./California-Wallpaper-051.jpg') center;
+  grid-row: 1;
+  grid-column: 1 / 5;
+  color: white;
+}
+
+.App-title {
+  margin-top: 8%;
+  font-size: 2.8em;
+  font-family: 'Merriweather', serif;
+}
+
+.leftPanel {
+  grid-row: 3;
+  grid-column: 1;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url('./map-of-northern-california.jpg') 30%;
+  background-size: 400%;
+  background-repeat: no-repeat;
+}
+
+.rightPanel {
+  grid-row: 3;
+  grid-column: 4;
+  background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.3)),url('./map-of-northern-california.jpg') 60%;
+  background-size: 400%;
+  background-repeat: repeat;
+}
+
+.HotelPanel {
+  grid-row: 3;
+  grid-column: 2;
+}
+
+.InfoPanel {
+  grid-row: 3;
+  grid-column: 3;
+}
+
+.footer {
+  grid-row: 5;
+  grid-column: 1 / 5;
+  background-color: #000031;
+}
+
+.footer p {
+  float: right;
+  font-size: 15px;
+  margin-right: 1%;
+  padding-top: 15px;
+  color: white;
+}
+
+
+

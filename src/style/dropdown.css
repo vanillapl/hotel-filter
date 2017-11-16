@@ -1,0 +1,28 @@
+.Dropdown {
+     float: left;
+     margin-left: 50px;
+ }
+
+.Dropdown ul li {
+    float: none;
+}
+
+.Filter {
+    padding-left: 50px;
+}
+
+p {
+    font-size: 18px;
+}
+
+.dropdown-toggle {
+    width: 200px;
+    font-size: 18px;
+}
+
+.dropdown-menu {
+    margin-left: 70px;
+    text-align: left;
+    width: 220px;
+    font-size: 18px;
+}
