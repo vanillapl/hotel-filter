@@ -13,7 +13,7 @@ class HotelPanel extends Component {
             return <h3>{'No such hotel :-)'}</h3>
         }
         let list = this.props.displayData.map((item) => {
-            return <HotelList item={item} changeFocus={this.props.changeFocus}/>;
+            return <HotelList item={item} changeFocus={this.props.changeFocus} />;
         });
         return <ul>{list}</ul>
     };

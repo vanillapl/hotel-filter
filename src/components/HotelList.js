@@ -14,11 +14,11 @@ class HotelList extends Component {
 
     render() {
         return (
-        <div className="HotelList btn btn-info btn-primary" onClick={this.handleClick}>
-            <div className="panel-body" id={this.props.item.name}>
-                {this.props.item.name}
+            <div className="HotelList btn btn-info btn-primary" onClick={this.handleClick}>
+                <div className="panel-body" id={this.props.item.name}>
+                    {this.props.item.name}
+                </div>
             </div>
-        </div>
         );
     }
 }

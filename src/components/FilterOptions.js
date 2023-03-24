@@ -11,7 +11,7 @@ class FilterOptions extends Component {
         let locations = this.getLocationList();
         this.state = {
             locations: locations,
-            range: [1,2,3,4,5],
+            range: [1, 2, 3, 4, 5],
             order: ['Rating in ascending order', 'Rating in descending order', 1]
         }
     }
@@ -56,23 +56,23 @@ class FilterOptions extends Component {
             <div className="FilterOptions">
                 <ul>
                     <li><div className="btn btn-default Reset"
-                             onClick={this.resetData}
-                             order={this.resetOrder}
+                        onClick={this.resetData}
+                        order={this.resetOrder}
                     >Reset</div></li>
                     <li><RatingRangeFilter name={'Filter By Rate Range'}
-                                           data={this.props.data}
-                                           option={this.state.range}
-                                           filterData={this.props.filterData}
-                                           changeFocus={this.props.changeFocus}
-                                           changeLocations={this.changeLocations}
-                                           order={this.resetOrder}
+                        data={this.props.data}
+                        option={this.state.range}
+                        filterData={this.props.filterData}
+                        changeFocus={this.props.changeFocus}
+                        changeLocations={this.changeLocations}
+                        order={this.resetOrder}
                     /></li>
                     <li><LocationFilter name={'Filter By Location'}
-                                        data={this.props.data}
-                                        option={this.state.locations}
-                                        filterData={this.props.filterData}
-                                        changeFocus={this.props.changeFocus}
-                                        order={this.resetOrder}
+                        data={this.props.data}
+                        option={this.state.locations}
+                        filterData={this.props.filterData}
+                        changeFocus={this.props.changeFocus}
+                        order={this.resetOrder}
                     /></li>
                     <li><div className="btn btn-default Sort" onClick={this.sortData}>Sort By Rating</div></li>
                 </ul>

@@ -18,7 +18,7 @@ class LocationFilter extends Component {
     filterLocation = (e) => {
         e.preventDefault();
         $('#Location').html(e.target.id);
-        $('#Location').prop("disabled",true);
+        $('#Location').prop("disabled", true);
         let result = this.props.data.filter((item) => {
             return item.city === e.target.id;
         });

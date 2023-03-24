@@ -10,15 +10,15 @@ class RatingRangeFilter extends Component {
 
     renderList = () => {
         let list = this.props.option.map((name) => {
-            return <li key={name}><a onClick={this.filterRatingRange} id={name}>{name-1 + ' - ' + name}</a></li>;
+            return <li key={name}><a onClick={this.filterRatingRange} id={name}>{name - 1 + ' - ' + name}</a></li>;
         });
         return <ul className="dropdown-menu">{list}</ul>
     };
 
     filterRatingRange = (e) => {
         e.preventDefault();
-        $('#Rating').html(e.target.id-1.0 + ' - ' + e.target.id);
-        $('#Rating').prop("disabled",true);
+        $('#Rating').html(e.target.id - 1.0 + ' - ' + e.target.id);
+        $('#Rating').prop("disabled", true);
         let result = this.props.data.filter((item) => {
             return item['average rating'] >= (e.target.id) * 1.0 - 1.0 && item['average rating'] <= e.target.id * 1.0;
         });

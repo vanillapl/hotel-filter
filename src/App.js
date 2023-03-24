@@ -33,8 +33,8 @@ class App extends Component {
     resetData = () => {
         $('#Rating').html('Filter By Rate Range');
         $('#Location').html('Filter By Location');
-        $('#Rating').prop("disabled",false);
-        $('#Location').prop("disabled",false);
+        $('#Rating').prop("disabled", false);
+        $('#Location').prop("disabled", false);
         data.sort((a, b) => {
             return a.name.localeCompare(b.name);
         });
@@ -64,21 +64,21 @@ class App extends Component {
 
     render() {
         return (
-          <div className="App">
-            <header className="App-header">
-              <h1 className="App-title">Hotels in California</h1>
-            </header>
-            <FilterOptions data={this.state.displayData}
-                           changeFocus={this.changeFocus}
-                           filterData={this.filterData}
-                           resetData={this.resetData}
-                           reverseSort={this.reverseSort}/>
-            <div className="leftPanel"></div>
-            <HotelPanel changeFocus={this.changeFocus} displayData={this.state.displayData}/>
-            <InfoPanel focus={this.state.focus}/>
-            <div className="rightPanel"></div>
-            <div className="footer"><p>Developed By: Xuenan Li</p></div>
-          </div>
+            <div className="App">
+                <header className="App-header">
+                    <h1 className="App-title">Hotels in California</h1>
+                </header>
+                <FilterOptions data={this.state.displayData}
+                    changeFocus={this.changeFocus}
+                    filterData={this.filterData}
+                    resetData={this.resetData}
+                    reverseSort={this.reverseSort} />
+                <div className="leftPanel"></div>
+                <HotelPanel changeFocus={this.changeFocus} displayData={this.state.displayData} />
+                <InfoPanel focus={this.state.focus} />
+                <div className="rightPanel"></div>
+                <div className="footer"><p>Developed By: Xuenan Li</p></div>
+            </div>
         );
     }
 }

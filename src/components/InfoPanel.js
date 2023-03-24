@@ -15,7 +15,7 @@ class InfoPanel extends Component {
                 <p>{this.props.focus.city + ', ' + this.props.focus['postal code']}</p>
                 <h3>{'Average Rating:'}</h3>
                 <h1>{this.props.focus['average rating']}</h1>
-                <img src={'./images/' + this.props.focus.name+'.jpg'}/>
+                <img src={'./images/' + this.props.focus.name + '.jpg'} />
             </div>
         );
     }
