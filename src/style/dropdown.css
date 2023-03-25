@@ -1,7 +1,7 @@
 .Dropdown {
-     float: left;
-     margin-left: 50px;
- }
+    float: left;
+    margin-left: 50px;
+}
 
 .Dropdown ul li {
     float: none;
