@@ -3,11 +3,6 @@ import $ from 'jquery';
 import '../style/dropdown.css';
 
 class LocationFilter extends Component {
-
-    constructor(props) {
-        super(props);
-    }
-
     renderList = () => {
         let list = this.props.option.map((name) => {
             return <li key={name}><a onClick={this.filterLocation} id={name}>{name}</a></li>;

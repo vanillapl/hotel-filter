@@ -3,11 +3,6 @@ import $ from 'jquery';
 import '../style/dropdown.css';
 
 class RatingRangeFilter extends Component {
-
-    constructor(props) {
-        super(props);
-    }
-
     renderList = () => {
         let list = this.props.option.map((name) => {
             return <li key={name}><a onClick={this.filterRatingRange} id={name}>{name - 1 + ' - ' + name}</a></li>;

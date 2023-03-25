@@ -52,7 +52,7 @@ class App extends Component {
             temp.sort((a, b) => {
                 return a['average rating'] - b['average rating'];
             });
-            this.state.sorted = true;
+            this.setState({sorted: true});
         } else {
             temp.reverse();
         }

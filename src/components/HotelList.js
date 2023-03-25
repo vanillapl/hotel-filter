@@ -2,11 +2,6 @@ import React, { Component } from 'react';
 import '../style/HotelList.css';
 
 class HotelList extends Component {
-
-    constructor(props) {
-        super(props);
-    }
-
     handleClick = (e) => {
         e.preventDefault();
         this.props.changeFocus(e.target.id);

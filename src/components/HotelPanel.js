@@ -3,11 +3,6 @@ import '../style/HotelPanel.css';
 import HotelList from './HotelList';
 
 class HotelPanel extends Component {
-
-    constructor(props) {
-        super(props);
-    }
-
     renderList = () => {
         if (this.props.displayData.length === 0) {
             return <h3>{'No such hotel :-)'}</h3>
