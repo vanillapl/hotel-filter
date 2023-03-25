@@ -68,11 +68,16 @@ class App extends Component {
                 <header className="App-header">
                     <h1 className="App-title">Hotels in California</h1>
                 </header>
-                <div className="App-body">
-                    <FilterOptions filterData={this.filterData} resetData={this.resetData} reverseSort={this.reverseSort} />
-                    <HotelPanel changeFocus={this.changeFocus} displayData={this.state.displayData} />
-                    <InfoPanel focus={this.state.focus} />
-                </div>
+                <FilterOptions data={this.state.displayData}
+                    changeFocus={this.changeFocus}
+                    filterData={this.filterData}
+                    resetData={this.resetData}
+                    reverseSort={this.reverseSort} />
+                <div className="leftPanel"></div>
+                <HotelPanel changeFocus={this.changeFocus} displayData={this.state.displayData} />
+                <InfoPanel focus={this.state.focus} />
+                <div className="rightPanel"></div>
+                <div className="footer"><p>Developed By: Xuenan Li</p></div>
             </div>
         );
     }
